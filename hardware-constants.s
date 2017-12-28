@@ -42,7 +42,7 @@ INV_EMPTY equ 0
 LASER_WITHDRAW equ 1 ; Cost: 30kJ
   ;; Withdraw the desired item
 LASER_DEPOSIT  equ 2 ; Cost: 30kJ
-  ;; Withdraw the desired item
+  ;; Deposit the desired item
 
 ;; Additional Info
 ;; Specify the desired item by setting the value of the B register with an item ID.
